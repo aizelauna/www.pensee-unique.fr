@@ -1,0 +1,96 @@
+/* CSS Document */
+
+.texte {
+	font-family: "Times New Roman", Times, serif ;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+}
+.titre {
+	font-family: "Times New Roman", Times, serif ;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+}
+.soustitre {
+	font-family:  "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #000000;
+}
+.menugauche {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #0000FF;
+}
+.textengras {
+	font-family:  "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+}
+.entete {
+	font-family: "Times New Roman", Times, serif;
+	font-size: xx-large;
+	font-style: italic;
+	font-weight: bold;
+}.PenseeUnique {
+	font-family:  "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #FFFFFF;
+	color: #FF0000;
+}
+.legende {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+.Science {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #0066FF;
+}
+.exposant {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	visibility: visible;
+	position: relative;
+	bottom: 2px;
+}
+.indice {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	position: relative;
+	visibility: visible;
+	top: 8px;
+}
+.grec {
+	font-family: Symbol;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+}
