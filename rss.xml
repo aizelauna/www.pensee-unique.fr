@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://www.pensee-unique.fr/rss.xml" rel="self" type="application/rss+xml" />
+
+
+<title>Pensee unique dans les sciences </title>
+<description>Contre la pensee unique dans les sciences </description>
+<link>http://www.pensee-unique.fr/</link>
+<lastBuildDate>Thu, 21 May 2015 17:53:17 GMT</lastBuildDate>
+
+
+<item>
+<title>Les nouvelles II</title>
+<link>http://www.pensee-unique.fr/news2.html</link>
+<guid isPermaLink="true">http://www.pensee-unique.fr/news2.html</guid>
+<pubDate>Thu, 28 Jul 2016 17:52:35 GMT</pubDate>
+<description><![CDATA[L'auteur est un chercheur qui débusque les detournements des resultats scientifiques à des fins politiques ou economiques <a href="http://www.pensee-unique.fr/news2.html" title="Read more ...">Read more ...</a>]]></description>
+</item>
+
+<item>
+<title>Tableau des articles du site</title>
+<link>http://www.pensee-unique.fr/table.html</link>
+<guid isPermaLink="true">http://www.pensee-unique.fr/table.html</guid>
+<pubDate>Thu, 28 Jul 2016 17:49:44 GMT</pubDate>
+<description><![CDATA[Où l'on découvre que la soi-disante fonte des pôles ne fait pas monter le niveau des océans ! <a href="http://www.pensee-unique.fr/table.html" title="Read more ...">Read more ...</a>]]></description>
+</item>
+
+<item>
+<title>pensee unique pour les scientifiques</title>
+<link>http://www.pensee-unique.fr/index.html</link>
+<guid isPermaLink="true">http://www.pensee-unique.fr/index.html</guid>
+<pubDate>Thu, 28 Jul 2016 17:05:34 GMT</pubDate>
+<description><![CDATA[Redige par un scientifique, ce site traque les nombreuses distorsions des connaissances scientifiques en matiere de rechauffement climatique et d'autres sujets societaux <a href="http://www.pensee-unique.fr/index.html" title="Read more ...">Read more ...</a>]]></description>
+</item>
+
+
+<item>
+<title>les liens</title>
+<link>http://www.pensee-unique.fr/liens.html</link>
+<guid isPermaLink="true">http://www.pensee-unique.fr/liens.html</guid>
+<pubDate>Thu, 30 Jun 2016 18:20:26 GMT</pubDate>
+<description><![CDATA[Les liens de la pensée unique en matière scientifique<a href="http://www.pensee-unique.fr/liens.html" title="Read more ...">Read more ...</a>]]></description>
+</item>
+
+
+</channel>
+</rss>
